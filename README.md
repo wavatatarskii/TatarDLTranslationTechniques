@@ -11,4 +11,4 @@ by Islamiya Gilmanova, Oleg Laptev, Eugene Tarelkin
 
 
 
-The project repository contains the playground jupyter notebook with the fully working implementation in /examples/tests
+The project repository contains the playground in jupyter notebook with the fully working implementation in /examples/tests
