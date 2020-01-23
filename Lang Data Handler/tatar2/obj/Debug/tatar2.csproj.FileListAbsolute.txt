@@ -1,0 +1,11 @@
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\bin\Debug\tatar2.exe.config
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\bin\Debug\tatar2.exe
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\bin\Debug\tatar2.pdb
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\obj\Debug\tatar2.csprojAssemblyReference.cache
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\obj\Debug\tatar2.csproj.CoreCompileInputs.cache
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\obj\Debug\tatar2.exe
+C:\Users\Dell2\source\repos\ForTatarText1\tatar2\obj\Debug\tatar2.pdb
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\tatar2\bin\Debug\tatar2.exe.config
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\tatar2\obj\Debug\tatar2.exe
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\tatar2\obj\Debug\tatar2.pdb
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\tatar2\obj\Debug\tatar2.csprojResolveAssemblyReference.cache

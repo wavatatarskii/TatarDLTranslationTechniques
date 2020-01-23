@@ -1,0 +1,11 @@
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\bin\Debug\netcoreapp2.1\ForTatarText1.deps.json
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\bin\Debug\netcoreapp2.1\ForTatarText1.runtimeconfig.json
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\bin\Debug\netcoreapp2.1\ForTatarText1.runtimeconfig.dev.json
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\bin\Debug\netcoreapp2.1\ForTatarText1.dll
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\bin\Debug\netcoreapp2.1\ForTatarText1.pdb
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\obj\Debug\netcoreapp2.1\ForTatarText1.csprojAssemblyReference.cache
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\obj\Debug\netcoreapp2.1\ForTatarText1.csproj.CoreCompileInputs.cache
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\obj\Debug\netcoreapp2.1\ForTatarText1.AssemblyInfoInputs.cache
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\obj\Debug\netcoreapp2.1\ForTatarText1.AssemblyInfo.cs
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\obj\Debug\netcoreapp2.1\ForTatarText1.dll
+C:\Users\Dell2\source\repos\ForTatarText1\ForTatarText1\obj\Debug\netcoreapp2.1\ForTatarText1.pdb
