@@ -1,0 +1,7 @@
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\bin\Debug\ForSortTexts.exe.config
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\bin\Debug\ForSortTexts.exe
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\bin\Debug\ForSortTexts.pdb
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\obj\Debug\ForSortTexts.csprojAssemblyReference.cache
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\obj\Debug\ForSortTexts.csproj.CoreCompileInputs.cache
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\obj\Debug\ForSortTexts.exe
+C:\Users\Dell2\source\repos\ForTatarText1\ForSortTexts\obj\Debug\ForSortTexts.pdb
