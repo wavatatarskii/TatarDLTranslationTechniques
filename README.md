@@ -6,4 +6,9 @@ Group project based on the research in Deep Learning Techniques for Tatar-Russia
 by Islamiya Gilmanova, Oleg Laptev, Eugene Tarelkin
 
 ***Testing***
+
+
+
+
+
 The project repository contains the playground jupyter notebook with the fully working implementation in /examples/tests
