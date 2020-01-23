@@ -1,0 +1,19 @@
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\bin\Debug\Translator.exe.config
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\bin\Debug\Translator.exe
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\bin\Debug\Translator.pdb
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.csprojAssemblyReference.cache
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.Form1.resources
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.exe
+C:\Users\Dell2\source\repos\ForTatarText1\Translator\obj\Debug\Translator.pdb
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\bin\Debug\Translator.exe.config
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\obj\Debug\Translator.exe
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\obj\Debug\Translator.pdb
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\obj\Debug\Translator.Form1.resources
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\obj\Debug\Translator.Properties.Resources.resources
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\obj\Debug\Translator.csproj.GenerateResource.Cache
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\bin\Debug\Translator.exe
+D:\Docs from C\Downloads\Telegram Desktop\ForTatarText\Translator\bin\Debug\Translator.pdb
