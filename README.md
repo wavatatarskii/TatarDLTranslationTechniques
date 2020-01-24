@@ -3,7 +3,7 @@
 
 Group project based on the research in Deep Learning Techniques for Tatar-Russian NMT
 
-by Islamiya Gilmanova, Oleg Laptev, Eugene Tarelkin
+by Islamiia Gilmanova, Oleg Laptev, Eugene Tarelkin
 
 ***Testing***
 
